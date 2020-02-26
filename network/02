@@ -1,0 +1,5 @@
+a
+ifconfig en0 | grep "inet " | cut -d " " -f 6
+
+b
+arp -a

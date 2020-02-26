@@ -1,0 +1,3 @@
+If we use traceroute slash16.org we can see that the device that connents our ip to outside world
+is named nat (network address translation)
+10.60.1.1
